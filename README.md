@@ -1,2 +1,3 @@
-# Assignment2
-The data for assignment 2
+# Assignment2 Sample Data
+
+You can find PlayerData.java code in the assignment 2 instruction PDF as well.
